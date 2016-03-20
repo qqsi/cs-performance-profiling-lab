@@ -1,9 +1,3 @@
-# cs-performance-profiling-lab
-
-
-## Objectives
-
-1.  Classify algorithms by measuring runtime for a range of problem sizes.
 
 
 ## Overview
@@ -151,3 +145,5 @@ We'll present our results and answer these questions in the next README.
 ## Resources
 
 [Anonymous classes](https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html): Java tutorial.
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cs-performance-profiling-lab'>Performance Profiling</a> on Learn.co and start learning to code for free.</p>
